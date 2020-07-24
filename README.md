@@ -1,4 +1,4 @@
-# DMD for coupled porous-acoustic models
+# DMD for coupled porous-fluid acoustic models
 Masters Final Project - Master Universitario de Matemática Industrial
 
 **Title:** Acoustic characterization of absorbing materials using dynamic mode decomposition techniques<br/>

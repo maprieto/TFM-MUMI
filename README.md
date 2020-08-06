@@ -6,4 +6,7 @@ Masters Final Project - Master Universitario de Matemática Industrial
 **Defense Date:** 21 July 2020<br/>
 **Academic supervisor:** Andres Prieto<br/>
 **Company:** ITMATI, Microflown Technologies<br/>
-**Industrial supervisor:**  Ashwin Nayak
+**Industrial supervisor:**  Ashwin Nayak<br/>
+
+This master thesis project has been partially funded by the European Union's Horizon 2020 research and innovation programme under the
+Marie Sk lodowska-Curie Grant Agreement No. 765374.

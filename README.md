@@ -1,5 +1,7 @@
 # DMD for coupled porous-fluid acoustic models
-Masters Final Project - Master Universitario de Matemática Industrial
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3974286.svg)](https://doi.org/10.5281/zenodo.3974286)
+
+Masters Final Project - Master Universitario de Matemática Industrial - M2i(https://www.m2i.es)
 
 **Title:** Acoustic characterization of absorbing materials using dynamic mode decomposition techniques<br/>
 **Author:** Gonzalo Carazo Barbero<br/>
